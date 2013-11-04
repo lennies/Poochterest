@@ -1,5 +1,5 @@
 # One Month Rails
 
-This is the pinteresting sample applications for [*One Month Rails*] (http://onemonthrails.com)
+I'm creating this application for the [*One Month Rails*] (http://onemonthrails.com) tutorial.
 
-This is [Lennie Sliwinski] (lenniesliwinski.com)
+This is [Lennie Sliwinski] (http://lenniesliwinski.com)
