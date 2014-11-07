@@ -1,5 +1,5 @@
-# One Month Rails
+# Poochterest by Lennie Sliwinski
 
-I'm creating this application for the [*One Month Rails*] (http://onemonthrails.com) tutorial.
+Thanks to [*One Month Rails*] (http://onemonthrails.com) for getting me started with Ruby on Rails.
 
-This is [Lennie Sliwinski] (http://lenniesliwinski.com)
+Created by [Lennie Sliwinski] (http://lenniesliwinski.com)
